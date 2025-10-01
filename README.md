@@ -1,5 +1,5 @@
 ## I'm a Fullstack Developer and Software Dev student 👩🏻‍💻✨<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellaromoc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isabellaromo_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaromocardenas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellaromoc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isabellaromo_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isabellaromocard@gmail.com)
 
 - Passionate about crafting digital experiences.<br>
 - Primarily work with React, NextJS and Typescript.<br>
